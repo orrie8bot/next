@@ -2,8 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+
 html {
   scroll-behavior: smooth;
   font-family: 'Oswald', sans-serif;
   font-size: 12px;
+}
+
+.custom-img {
+  background-image: url(../assets/Loren_Look_Out_MG_4929.jpg);
 }
